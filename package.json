@@ -1,0 +1,6 @@
+{
+	"dependencies": {
+		"nativewind": "^4.0.1",
+		"react-native-css-interop": "^0.2.1"
+	}
+}
