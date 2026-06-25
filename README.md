@@ -1,6 +1,13 @@
 # Simple Stocks
 
-A personal stock tracking app available in two versions — a **web app** built with Next.js and a **native mobile app** built with React Native (Expo). Both share the same Supabase backend and Finnhub data source, giving users the same experience across platforms.
+A personal stock tracking app available in two versions - a **web app** built with Next.js and a **native mobile app** built with React Native (Expo). Both share the same Supabase backend and Finnhub data source, giving users the same experience across platforms.
+
+<p>
+    <img src="src/mobile1.jpg" height="200">
+    <img src="src/mobile2.jpg" height="200">
+    <img src="src/web1.png" height="200">
+    <img src="src/web2.png" height="200">
+</p>
 
 ## ✨ Features
 
@@ -23,8 +30,3 @@ A personal stock tracking app available in two versions — a **web app** built 
 - **Supabase** - Auth and Postgres database for per-user stock and following lists
 - **Finnhub API** (`react-finnhub`) - Real-time stock quotes and symbol search
 - **Lucide** for icons
-
-## 🎬 Showcase
-
-<img src="src/mobile1.jpg" height="200">
-<img src="src/mobile2.jpg" height="200">
