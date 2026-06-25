@@ -25,3 +25,6 @@ A personal stock tracking app available in two versions — a **web app** built 
 - **Lucide** for icons
 
 ## 🎬 Showcase
+
+<img src="src/mobile1.jpg" height="200">
+<img src="src/mobile2.jpg" height="200">
