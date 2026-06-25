@@ -1,0 +1,10 @@
+#web
+node_modules/
+.next/
+.env*
+
+#mobile
+.expo
+.vscode
+expo-env.d.ts
+.gitignore
